@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	background: black;
+}
+
+#main {
+	position: relative;
+	text-align: center;
+	margin: auto;
+	display: block;
+	top: 10px;
+}

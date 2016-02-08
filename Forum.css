@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40pt;
+}
+
+h2 {
+	padding-left: 1500px;
+	font-size: 30pt;
+}
+
+#box1 {
+	background-color: #00688B;
+	width: 1700px;
+	height: 60px;
+	margin: 0 auto;
+}
+
+#box2 {
+	background-color: white;
+	margin: 0 auto;
+	width: 1700px;
+	height: 800px;
+}
+
+#border {
+	height: 600px;
+	width: 1500px;
+	border: 5px solid black;
+}
+
+#text {
+	padding-left: 100px;
+	padding-top: 100px;
+}
+#main {
+	left: 100%;
+}
+#po {
+	padding-top: 550px;
+	text-align: center;
+}
+
+#button {
+	border: solid black 2px;
+	text-decoration: none;
+	background-color: lightblue;
+	border-radius: 5px;
+	height: 50px;
+	width: 200px;
+	margin: auto;
+}
